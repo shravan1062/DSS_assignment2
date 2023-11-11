@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='math_quiz_game',
-    version='3.10.7',
+    version='3.11.6',
     packages=find_packages(),
     install_requires=[
         # Specify any dependencies here
